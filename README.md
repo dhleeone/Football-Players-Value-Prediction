@@ -1,5 +1,5 @@
 # [EDA]Football-Players-Value-Prediction
-* 2021 인공지능 창의융합형 인재양성 과정- advanced project
+* 2021 인공지능 창의융합형 인재양성 과정- mini project
 * 기간 : 2021.08.26 ~ 2021.08.31
 ---
 
